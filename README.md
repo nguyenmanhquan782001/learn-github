@@ -5,4 +5,5 @@ Step 3 : git add .
 Step 4 : git commit
  
  // git log : Check history commit. 
- //git show
+ //git show . 
+ git reset 

@@ -1,0 +1,3 @@
+git reset : chuyển file từ staging area xuống working directory . 
+git checkout --ten file bỏ thay đổi mà mình vừa thay đổi trong file đó.  
+git branching
